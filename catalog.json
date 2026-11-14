@@ -2,11 +2,15 @@
   "locked": [
     "paris"
   ],
-  "made": "2026-11-14T23:31:53",
+  "made": "2026-11-14T23:48:21",
   "pictures": [
     {
       "file": "albums/test/heart.png",
-      "md5": "ad0c7ad690cc3e408bfeda95a9aa2c3f"
+      "md5": "3acba306818ae5c694654c3f706ac03e"
+    },
+    {
+      "file": "albums/test/statue_liberty_nyc_source.png",
+      "md5": "e63856d86d27f20e2c5fbd22b01a2e59"
     }
   ],
   "version": 1
