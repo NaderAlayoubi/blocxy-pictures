@@ -2,8 +2,12 @@
   "locked": [
     "paris"
   ],
-  "made": "2026-11-14T23:48:21",
+  "made": "2026-11-15T00:04:40",
   "pictures": [
+    {
+      "file": "albums/test/pastel_pixel_golden_gate_sunset.png",
+      "md5": "536e5f21543b0d881609dfc77d9a5512"
+    },
     {
       "file": "albums/test/heart.png",
       "md5": "3acba306818ae5c694654c3f706ac03e"
