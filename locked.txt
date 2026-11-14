@@ -1,0 +1,2 @@
+# Locked albums: write one album folder name per line (lines starting with # are notes).
+paris
