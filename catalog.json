@@ -2,15 +2,19 @@
   "locked": [
     "paris"
   ],
-  "made": "2026-11-15T00:04:40",
+  "made": "2026-11-15T01:16:39",
   "pictures": [
+    {
+      "file": "albums/test/heart.png",
+      "md5": "3acba306818ae5c694654c3f706ac03e"
+    },
     {
       "file": "albums/test/pastel_pixel_golden_gate_sunset.png",
       "md5": "536e5f21543b0d881609dfc77d9a5512"
     },
     {
-      "file": "albums/test/heart.png",
-      "md5": "3acba306818ae5c694654c3f706ac03e"
+      "file": "albums/test/pixel_ladybug_on_a_dewy_leaf.png",
+      "md5": "bb191d2719a382845c624a420db9255e"
     },
     {
       "file": "albums/test/statue_liberty_nyc_source.png",
